@@ -1,0 +1,19 @@
+{
+  "name": "chuckledrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "type": "module",
+  "author": "Ben Robson",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "luxon": "^3.6.1",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2"
+  }
+}
